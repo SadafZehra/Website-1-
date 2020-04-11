@@ -1,0 +1,17 @@
+h1{
+    color:pink;
+    background-color: darkgrey;
+}
+p{
+    background-color:  rgb(90,0,0);
+    opacity : 9;
+}
+h2{
+    background-color: hsl(148, 67%, 19%);
+}
+h3{
+background-color: rgba(227, 120, 138, 0.788);
+}
+h4{
+    background-color: hsla(320,89%,8%,0.7899);
+}
